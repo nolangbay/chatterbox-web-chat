@@ -16,7 +16,5 @@ Utilizing Python with Flask, JavaScript, JSON, HTML/CSS, and SQLAlchemy.
 * You can navigate between chatrooms and send messages in any that exist.
 * You can create as many users/chat rooms as you want! Users only have permission to delete the chat rooms that they have personally created.
 
-## Screenshots:
-![Log in Page](https://user-images.githubusercontent.com/54992835/129316589-3cff61cd-2abf-4073-a404-15274af3b1a2.PNG)
-![Chatroom Page](https://user-images.githubusercontent.com/54992835/129316598-900654d0-5465-46d1-bd7c-c631cece9cae.PNG)
-
+<br>
+<img src="https://user-images.githubusercontent.com/54992835/129320119-0623b8a0-7269-4fee-8ce0-75ec4b28426c.gif" width="500">
