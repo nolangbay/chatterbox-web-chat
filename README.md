@@ -14,7 +14,7 @@ Written in Python with Flask, JavaScript, JSON, HTML/CSS, and utilizing SQLAlche
 * Follow the website navigation to create a new user.
 * Log-in with the new user, and begin creating chat rooms.
 * You can navigate between chatrooms and send messages in any that exist - chat messages are polled live using JSON.
-* To test multiple users at the same time, set up multiple chrome profiles: https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop
+* To test multiple users at the same time, set up multiple Chrome profiles: https://support.google.com/chrome/answer/2364824?hl=en&co=GENIE.Platform%3DDesktop
 * You can create as many new users and chat rooms as you want! Users only have permission to delete the chat rooms that they have personally created.
 
 <br>
