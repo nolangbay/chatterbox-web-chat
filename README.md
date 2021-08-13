@@ -1,10 +1,10 @@
 # ChatterBox, a Flask Based Web Application.
 
-Utilizing Python with Flask, JavaScript, JSON, HTML/CSS, and SQLAlchemy.
+Written in Python with Flask, JavaScript, JSON, HTML/CSS, and utilizing SQLAlchemy.
 
 ## Getting Started:
 * Clone the repository, and navigate to the `chatterbox-web-chat` folder
-* Make sure Flask is installed and you have initialized the environment - details on how to do so can be found at: https://flask.palletsprojects.com/en/2.0.x/installation/
+* Make sure Flask is installed and you have initialized the environment - details on how to do this can be found here: https://flask.palletsprojects.com/en/2.0.x/installation/
 * Set the `FLASK_APP` environment variable to `chat.py` (set FLASK_APP=chat.py)
 * Initialize the database by running `flask initdb` 
 * Run the app with `flask run`
