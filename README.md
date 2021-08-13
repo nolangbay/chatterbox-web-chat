@@ -4,7 +4,7 @@ Written in Python, JavaScript, and HTML/CSS, utilizing SQLAlchemy.
 
 ## Getting Started:
 * Clone the repository, and navigate to the `chatterbox-web-chat` folder
-* Make sure that Flask is installed and that you have initialized the environment - details on how to do this can be found here: https://flask.palletsprojects.com/en/2.0.x/installation/
+* Create and activate a new Python environment, then install Flask - details on how to do this can be found here: https://flask.palletsprojects.com/en/2.0.x/installation/
 * Set the `FLASK_APP` environment variable to `chat.py` (set FLASK_APP=chat.py)
 * Initialize the database by running `flask initdb` 
 * Run the app with `flask run`
