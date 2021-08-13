@@ -14,7 +14,8 @@ Utilizing Python with Flask, JavaScript, JSON, HTML/CSS, and SQLAlchemy.
 * Follow the website navigation to create a new user.
 * Log-in with the new user, and begin creating chat rooms.
 * You can navigate between chatrooms and send messages in any that exist.
-* You can create as many users/chat rooms as you want! Users only have permission to delete the chat rooms that they have personally created.
+* Chat messages are polled live using JSON - you can have multiple tabs open with different users logged in and chatting with each other.
+* You can create as many new users and chat rooms as you want! Users only have permission to delete the chat rooms that they have personally created.
 
 <br>
 <img src="https://user-images.githubusercontent.com/54992835/129320119-0623b8a0-7269-4fee-8ce0-75ec4b28426c.gif" width="500">
