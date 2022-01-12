@@ -1,6 +1,6 @@
 # ChatterBox, a Flask Based Web Application.
 
-Written in Python, JavaScript, and HTML/CSS, utilizing SQLAlchemy.
+Written in Python, JavaScript, and HTML/CSS, utilizing SQLAlchemy and a RESTful API.
 
 ## Getting Started:
 * Clone the repository, and navigate to the `chatterbox-web-chat` folder
